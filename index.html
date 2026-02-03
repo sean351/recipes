@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Recipes</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">My Recipes</a>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active" onclick="showHome()">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header>
+        <h1>My Recipes</h1>
+        <p>A collection of delicious recipes</p>
+    </header>
+    
+    <main>
+        <div id="home-view" class="view active">
+            <section class="recipe-grid" id="recipe-list">
+                <!-- Recipes will be loaded here -->
+            </section>
+        </div>
+        
+        <div id="recipe-view" class="view">
+            <button class="back-btn" onclick="showHome()">← Back to Recipes</button>
+            <article id="recipe-content">
+                <!-- Recipe content will be loaded here -->
+            </article>
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 My Recipes. All rights reserved.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
