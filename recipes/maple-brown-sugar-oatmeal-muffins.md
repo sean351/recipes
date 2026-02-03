@@ -1,34 +1,94 @@
-# Chocolate Chip Cookies
+# Maple Brown Sugar Oatmeal Muffins
+
+**Author:** Kate @ I Heart Eating  
+**Prep Time:** 15 minutes  
+**Cook Time:** 18 minutes  
+**Total Time:** 33 minutes  
+**Servings:** 12 muffins
+
+These maple brown sugar oatmeal muffins are moist, hearty, and lightly sweet—perfect for a cozy, grab-and-go breakfast.
+
+---
+
+## Equipment
+
+- Muffin tin
+- Large mixing bowl
+- Measuring cups and spoons
+- Whisk
+
+---
 
 ## Ingredients
 
-- 2 1/4 cups all-purpose flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 cup butter, softened
-- 3/4 cup granulated sugar
-- 3/4 cup brown sugar
-- 2 large eggs
-- 2 tsp vanilla extract
-- 2 cups chocolate chips
+- 2 cups old-fashioned rolled oats
+- 1 cup milk
+- ½ cup pure maple syrup
+- ⅓ cup neutral oil
+- ⅔ cup light brown sugar, packed
+- 2 large eggs, lightly beaten
+- 1½ cups all-purpose flour
+- 1 teaspoon baking powder
+- ½ teaspoon ground cinnamon
+- ½ teaspoon baking soda
+- ½ teaspoon kosher salt
+- Sparkling or raw sugar (optional, for topping)
+
+---
 
 ## Instructions
 
-1. Preheat oven to 375°F (190°C).
-2. In a small bowl, combine flour, baking soda, and salt.
-3. In a large bowl, beat butter and both sugars until creamy.
-4. Add eggs and vanilla extract to butter mixture and beat well.
-5. Gradually mix in flour mixture.
-6. Stir in chocolate chips.
-7. Drop rounded tablespoons of dough onto ungreased baking sheets.
-8. Bake for 9-12 minutes until golden brown.
-9. Cool on baking sheets for 2 minutes, then transfer to wire racks.
+1. **Preheat** the oven to 400°F. Line a 12-cup muffin tin with paper liners.
 
-## Prep Time
-15 minutes
+2. **Combine** the oats and milk in a large bowl.
 
-## Cook Time
-12 minutes
+3. **Add** the maple syrup, oil, brown sugar, and eggs. Mix until combined.
 
-## Servings
-About 36 cookies
+4. **Stir in** the flour, baking powder, cinnamon, baking soda, and salt just until combined. The batter will be wet. Do not overmix.
+
+5. **Divide** the batter between the prepared muffin tins.
+
+6. **Sprinkle** sugar over batter, if using.
+
+7. **Bake** for 18-25 minutes, or until the muffins spring back when lightly pressed.
+
+8. **Let** the muffins cool in the tin for 5 minutes.
+
+9. **Remove** to wire rack to finish cooling.
+
+---
+
+## Recipe Notes
+
+- **Milk:** Anything from skim to whole milk will work. Non-dairy milks such as almond milk will also work.
+- **Oil:** Any neutral oil, such as canola oil, will work.
+- **Brown sugar:** If you prefer muffins that aren't as sweet, reduce the brown sugar to ⅓-½ cup.
+- **Salt:** Or ¼ teaspoon table salt.
+- **Pan preparation:** Use parchment cupcake liners or baking spray with flour.
+- **Maple flavor:** For more maple flavor, add up to 1 teaspoon of maple flavoring with the wet ingredients.
+- **Add-ins:** Feel free to stir in dried cranberries, blueberries, or chopped nuts.
+- **Oven temperature:** If muffins brown too quickly, decrease temperature by 25°F.
+
+---
+
+## Storage
+
+Store muffins in an airtight container at room temperature for 3-4 days.
+
+## Freezing
+
+Bake as directed, cool completely, then freeze in a freezer-safe container for up to 3 months.
+
+---
+
+## Nutrition (per muffin)
+
+- **Calories:** 261 kcal
+- **Carbohydrates:** 43g
+- **Protein:** 5g
+- **Fat:** 7g
+- **Sugar:** 21g
+
+---
+
+*Recipe from I Heart Eating (ihearteating.com)*
