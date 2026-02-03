@@ -1,6 +1,8 @@
 // Recipe data - will be populated dynamically
 let recipes = [];
 let config = {};
+let currentMarkdown = '';
+let currentRecipeTitle = '';
 
 // Initialize the app
 document.addEventListener('DOMContentLoaded', function() {
@@ -104,6 +106,9 @@ async function loadRecipe(filename) {
         if (!response.ok) throw new Error('Failed to load recipe');
         
         const markdown = await response.text();
+        currentMarkdown = markdown;
+        currentRecipeTitle = filenameTotitle(filename);
+        
         const html = marked.parse(markdown);
         
         const recipeContent = document.getElementById('recipe-content');
@@ -125,4 +130,9 @@ function showHome() {
     document.getElementById('recipe-view').classList.remove('active');
     document.getElementById('home-view').classList.add('active');
     window.scrollTo(0, 0);
+}
+
+// Print the recipe (rendered markdown)
+function printRecipe() {
+    window.print();
 }

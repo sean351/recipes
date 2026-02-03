@@ -182,6 +182,64 @@ main {
     background: #764ba2;
 }
 
+/* Print styling */
+@media print {
+    .navbar,
+    header,
+    footer,
+    .back-btn,
+    .print-btn,
+    #home-view {
+        display: none !important;
+    }
+    
+    #recipe-view {
+        display: block !important;
+    }
+    
+    #recipe-content {
+        box-shadow: none;
+        max-width: 100%;
+        padding: 0;
+    }
+    
+    body {
+        background: white;
+    }
+    
+    #recipe-content h1 {
+        page-break-after: avoid;
+    }
+    
+    #recipe-content h2 {
+        page-break-after: avoid;
+    }
+    
+    #recipe-content ul,
+    #recipe-content ol {
+        page-break-inside: avoid;
+    }
+}
+
+/* Print button styling */
+.print-btn {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 0 auto 1.5rem;
+    display: block;
+    transition: background 0.3s ease;
+    margin-left: 1rem;
+}
+
+.print-btn:hover {
+    background: #764ba2;
+}
+
 .iframe-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
