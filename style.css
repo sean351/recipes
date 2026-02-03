@@ -164,8 +164,17 @@ main {
     margin-bottom: 0.5rem;
 }
 
+/* Recipe buttons container */
+.recipe-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
 /* Back button */
-.back-btn {
+.back-btn,
+.print-btn {
     background: #667eea;
     color: white;
     border: none;
@@ -173,12 +182,11 @@ main {
     border-radius: 4px;
     cursor: pointer;
     font-size: 1rem;
-    margin: 0 auto 1.5rem;
-    display: block;
     transition: background 0.3s ease;
 }
 
-.back-btn:hover {
+.back-btn:hover,
+.print-btn:hover {
     background: #764ba2;
 }
 
@@ -187,8 +195,7 @@ main {
     .navbar,
     header,
     footer,
-    .back-btn,
-    .print-btn,
+    .recipe-buttons,
     #home-view {
         display: none !important;
     }
@@ -219,25 +226,6 @@ main {
     #recipe-content ol {
         page-break-inside: avoid;
     }
-}
-
-/* Print button styling */
-.print-btn {
-    background: #667eea;
-    color: white;
-    border: none;
-    padding: 0.75rem 1.5rem;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 1rem;
-    margin: 0 auto 1.5rem;
-    display: block;
-    transition: background 0.3s ease;
-    margin-left: 1rem;
-}
-
-.print-btn:hover {
-    background: #764ba2;
 }
 
 .iframe-grid {
